@@ -1,6 +1,3 @@
-//ISSUE:
-//Dymanically allocate karo 2D array ko. Learn pointer arithmetic for that
-
 //ASSUMPTION:
 //I have assumed it to be a square matrix
 
